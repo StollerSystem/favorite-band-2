@@ -1,18 +1,14 @@
 .sidebar {
-  width: 20%;
-  padding: 20px;
-  border: black;
-  border-width: 20px;
-  box-sizing: border-box;
-  margin: 10px;
-  float: right;
-  background-color: rgb(255, 0, 0); 
+    float: right;
+    width: 50%;
+    border: solid black;
+    border-width: 10px;
+    background-color:red;
+    margin-bottom: 10px; 
 }
-.img {
-  float: left;
-  
-}
-.pictures {
-  width: 100px;
-  height: auto;
+.picture {
+  float: left;  
+  border: solid white;
+  border-width: 10px;
+  background-color:red;  
 }
