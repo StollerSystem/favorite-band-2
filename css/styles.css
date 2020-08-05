@@ -1,5 +1,10 @@
 .sidebar {
   width: 20%;
+  padding: 20px;
+  border: black;
+  border-width: 20px;
+  box-sizing: border-box;
+  margin: 10px;
   float: right;
   background-color: rgb(255, 0, 0); 
 }
