@@ -1,0 +1,13 @@
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color: rgb(255, 0, 0); 
+}
+.img {
+  float: left;
+  
+}
+.pictures {
+  width: 100px;
+  height: auto;
+}
